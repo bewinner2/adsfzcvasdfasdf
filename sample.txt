@@ -3,4 +3,4 @@ test
 
 test1234
 
-manager : Leopards
+manager : Coach
